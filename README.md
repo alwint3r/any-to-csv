@@ -9,7 +9,7 @@ Convert any kind of data to a CSV format with a straightforward API.
 ## Usage
 
 ```ts
-import { toCsv, HeaderSpec, CsvDataValue } from 'https://raw.githubusercontent.com/alwint3r/any-to-csv/mod.ts';
+import { toCsv, HeaderSpec, CsvDataValue } from 'https://raw.githubusercontent.com/alwint3r/any-to-csv/main/mod.ts';
 
 const data = [
     { name: 'Anakin', job: 'Padawan' },
